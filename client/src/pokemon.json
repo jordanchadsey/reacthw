@@ -1,0 +1,53 @@
+
+"UBs": [
+	{
+	"id": 1,
+	"name": "Nihilego",
+	"image": "https://cdn.bulbagarden.net/upload/2/2c/793Nihilego.png"
+	},
+	{
+	"id": 2,
+	"name": "Buzzwole",
+	"image": "https://cdn.bulbagarden.net/upload/f/fa/794Buzzwole.png"
+	},
+	{
+	"id": 3,
+	"name": "Pheromosa",
+	"image":"https://cdn.bulbagarden.net/upload/c/c7/795Pheromosa.png"
+	},
+	{
+	"id": 4,
+	"name": "Xurkitree",
+	"image":"https://cdn.bulbagarden.net/upload/d/d2/796Xurkitree.png"
+	},
+	{
+	"id": 5,
+	"name": "Celesteela",
+	"image":"https://cdn.bulbagarden.net/upload/8/89/797Celesteela.png"
+	},
+	{
+	"id": 6,
+	"name": "Kartana",
+	"image":"https://cdn.bulbagarden.net/upload/f/fe/798Kartana.png"
+	},
+	{
+	"id": 7,
+	"name": "Guzzlord",
+	"image":"https://cdn.bulbagarden.net/upload/4/47/799Guzzlord.png"
+	},
+	{
+	"id": 8,
+	"name": "Naganadel",
+	"image":"https://cdn.bulbagarden.net/upload/d/de/804Naganadel.png"
+	},
+	{
+	"id": 9,	
+	"name": "Stakataka",
+	"image":"https://cdn.bulbagarden.net/upload/2/27/805Stakataka.png"
+	},
+	{
+	"id": 10,
+	"name": "Blacephalon",
+	"image":"https://cdn.bulbagarden.net/upload/a/a5/806Blacephalon.png"
+	}
+]

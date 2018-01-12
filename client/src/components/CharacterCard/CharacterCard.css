@@ -1,0 +1,13 @@
+.card {
+	max-width: 150px;
+	max-height: 150px;
+	position: relative;
+}
+
+.card > .img-container {
+	height: 100px;
+}
+
+.ultraBeasts {
+	max-width: 150px;
+}
