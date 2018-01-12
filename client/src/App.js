@@ -4,7 +4,7 @@ import Score from "./components/Header";
 import HighScore from "./components/Header";
 import CharacterCard from "./components/CharacterCard";
 import Wrapper from "./components/Wrapper";
-import characters from "./components/CharacterCard/pokemon.json";
+import characters from "./pokemon.json";
 //going to import other stuff like score from header
 
 function shuffle(array) {

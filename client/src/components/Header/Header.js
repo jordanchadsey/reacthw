@@ -5,8 +5,8 @@ import HighScore from "./highscore.js";
 
 const Header = props => (
   <div className="container">
-    <h2 className="title">play my stupid game</h2>
-    <h3 className="rules">click below and try not to choose the same ultra beast twice.</h3>
+    <h2 className="title">you can't play my stupid game</h2>
+    <h3 className="rules">because i don't know what i'm doing.</h3>
 
     <p className="scoreBoard">
     <span className="score">score: </span>
